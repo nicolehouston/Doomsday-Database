@@ -6,4 +6,4 @@
 * The map can be cleared using the "Clear All" button. The user can keep typing in different years to get new data.
 * This site uses the Mapbox API and NASA API
 
-* Link to deployed project: https://nicolehouston.github.io/project1-1/
+* Link to deployed project: https://nicolehouston.github.io/Doomsday-Database/
